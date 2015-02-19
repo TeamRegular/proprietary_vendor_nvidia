@@ -72,6 +72,7 @@ PRODUCT_COPY_FILES += \
     vendor/nvidia/shieldtablet/proprietary/vendor/bin/rm_panel_setting.ini:system/vendor/bin/rm_panel_setting.ini \
     vendor/nvidia/shieldtablet/proprietary/vendor/bin/rm_test:system/vendor/bin/rm_test \
     vendor/nvidia/shieldtablet/proprietary/vendor/bin/rm_ts_server:system/vendor/bin/rm_ts_server \
+    vendor/nvidia/shieldtablet/proprietary/vendor/bin/rm_ts_wrapper:system/vendor/bin/rm_ts_wrapper \
     vendor/nvidia/shieldtablet/proprietary/vendor/bin/tegrastats:system/vendor/bin/tegrastats \
     vendor/nvidia/shieldtablet/proprietary/vendor/bin/tlk_daemon:system/vendor/bin/tlk_daemon \
     vendor/nvidia/shieldtablet/proprietary/vendor/bin/ussrd:system/vendor/bin/ussrd \
